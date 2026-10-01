@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<defs>
+  <linearGradient id="bg16" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7F9FC"/><stop offset="1" stop-color="#E3EBF5"/></linearGradient>
+  <filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#1E2A78" flood-opacity=".22"/></filter>
+</defs>
+  <rect width="800" height="600" fill="url(#bg16)"/>
+  <circle cx="704" cy="72" r="192" fill="#fff" opacity=".35"/>
+  <circle cx="64" cy="570" r="132" fill="#7FB3E0" opacity=".25"/>
+  <g fill="#1E2A78" opacity=".10"><circle cx="32" cy="36" r="2.4"/><circle cx="46" cy="36" r="2.4"/><circle cx="60" cy="36" r="2.4"/><circle cx="74" cy="36" r="2.4"/><circle cx="88" cy="36" r="2.4"/><circle cx="102" cy="36" r="2.4"/><circle cx="32" cy="50" r="2.4"/><circle cx="46" cy="50" r="2.4"/><circle cx="60" cy="50" r="2.4"/><circle cx="74" cy="50" r="2.4"/><circle cx="88" cy="50" r="2.4"/><circle cx="102" cy="50" r="2.4"/><circle cx="32" cy="64" r="2.4"/><circle cx="46" cy="64" r="2.4"/><circle cx="60" cy="64" r="2.4"/><circle cx="74" cy="64" r="2.4"/><circle cx="88" cy="64" r="2.4"/><circle cx="102" cy="64" r="2.4"/><circle cx="32" cy="78" r="2.4"/><circle cx="46" cy="78" r="2.4"/><circle cx="60" cy="78" r="2.4"/><circle cx="74" cy="78" r="2.4"/><circle cx="88" cy="78" r="2.4"/><circle cx="102" cy="78" r="2.4"/><circle cx="32" cy="92" r="2.4"/><circle cx="46" cy="92" r="2.4"/><circle cx="60" cy="92" r="2.4"/><circle cx="74" cy="92" r="2.4"/><circle cx="88" cy="92" r="2.4"/><circle cx="102" cy="92" r="2.4"/></g>
+<g transform="translate(120 20) scale(1.4)"><g transform="rotate(-3 200 200)"><g filter="url(#sh)"><rect x="34" y="86" width="332" height="232" rx="4" fill="#FFFDF8"/></g>
+  <rect x="46" y="98" width="308" height="208" fill="none" stroke="#1E2A78" stroke-width="2"/>
+  <rect x="52" y="104" width="296" height="196" fill="none" stroke="#7FB3E0" stroke-width="1"/>
+  <text x="200" y="140" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="3" fill="#7A839F">INSTITUTO NUEVO HORIZONTE</text>
+  <text x="200" y="176" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="32" fill="#1E2A78">Diploma</text>
+  <text x="200" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8" fill="#7A839F">se otorga el presente a</text>
+  <rect x="110" y="212" width="180" height="1.5" fill="#9AA5B1"/>
+  <rect x="120" y="226" width="160" height="2" rx="1.5" fill="#E1E6EF"/><rect x="120" y="234" width="96" height="2" rx="1.5" fill="#E1E6EF"/>
+  <rect x="80" y="282" width="70" height="1.2" fill="#9AA5B1"/><rect x="170" y="282" width="70" height="1.2" fill="#9AA5B1"/>
+  <text x="115" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" fill="#7A839F">Dirección</text>
+  <text x="205" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" fill="#7A839F">Secretaría</text>
+  <path d="M296 284 l-10 40 l14 -8 l8 14 l6 -42 z" fill="#7FB3E0"/><path d="M314 284 l8 40 l-14 -8 l-8 14 l-4 -42 z" fill="#1E2A78"/>
+  <circle cx="305" cy="270" r="26" fill="#E31E24"/><circle cx="305" cy="270" r="20" fill="none" stroke="#fff" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <text x="305" y="268" text-anchor="middle" font-family="'Bebas Neue', Impact, 'Arial Narrow', sans-serif" font-size="10" fill="#fff">PROMO</text>
+  <text x="305" y="280" text-anchor="middle" font-family="'Bebas Neue', Impact, 'Arial Narrow', sans-serif" font-size="12" fill="#fff">2026</text></g></g>
+</svg>

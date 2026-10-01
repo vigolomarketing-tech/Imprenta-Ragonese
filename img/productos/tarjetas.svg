@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<defs>
+  <linearGradient id="bg12" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EEF5FC"/><stop offset="1" stop-color="#CFE0F3"/></linearGradient>
+  <filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#1E2A78" flood-opacity=".22"/></filter>
+</defs>
+  <rect width="800" height="600" fill="url(#bg12)"/>
+  <circle cx="704" cy="72" r="192" fill="#fff" opacity=".35"/>
+  <circle cx="64" cy="570" r="132" fill="#7FB3E0" opacity=".25"/>
+  <g fill="#1E2A78" opacity=".10"><circle cx="32" cy="36" r="2.4"/><circle cx="46" cy="36" r="2.4"/><circle cx="60" cy="36" r="2.4"/><circle cx="74" cy="36" r="2.4"/><circle cx="88" cy="36" r="2.4"/><circle cx="102" cy="36" r="2.4"/><circle cx="32" cy="50" r="2.4"/><circle cx="46" cy="50" r="2.4"/><circle cx="60" cy="50" r="2.4"/><circle cx="74" cy="50" r="2.4"/><circle cx="88" cy="50" r="2.4"/><circle cx="102" cy="50" r="2.4"/><circle cx="32" cy="64" r="2.4"/><circle cx="46" cy="64" r="2.4"/><circle cx="60" cy="64" r="2.4"/><circle cx="74" cy="64" r="2.4"/><circle cx="88" cy="64" r="2.4"/><circle cx="102" cy="64" r="2.4"/><circle cx="32" cy="78" r="2.4"/><circle cx="46" cy="78" r="2.4"/><circle cx="60" cy="78" r="2.4"/><circle cx="74" cy="78" r="2.4"/><circle cx="88" cy="78" r="2.4"/><circle cx="102" cy="78" r="2.4"/><circle cx="32" cy="92" r="2.4"/><circle cx="46" cy="92" r="2.4"/><circle cx="60" cy="92" r="2.4"/><circle cx="74" cy="92" r="2.4"/><circle cx="88" cy="92" r="2.4"/><circle cx="102" cy="92" r="2.4"/></g>
+<g transform="translate(120 20) scale(1.4)"><defs><linearGradient id="g11" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E2A78"/><stop offset="1" stop-color="#2346D8"/></linearGradient></defs>
+  <g transform="rotate(-12 200 150)"><g filter="url(#sh)"><rect x="70" y="80" width="250" height="146" rx="8" fill="url(#g11)"/></g>
+    <circle cx="195" cy="132" r="24" fill="none" stroke="#fff" stroke-width="3"/>
+    <text x="195" y="141" text-anchor="middle" font-family="'Bebas Neue', Impact, 'Arial Narrow', sans-serif" font-size="24" fill="#fff">EC</text>
+    <text x="195" y="186" text-anchor="middle" font-family="'Bebas Neue', Impact, 'Arial Narrow', sans-serif" font-size="14.2" fill="#fff" letter-spacing="1">ESTUDIO CONTABLE NORTE</text>
+    <rect x="165" y="196" width="60" height="2" fill="#E31E24"/></g>
+  <g transform="rotate(6 200 260)"><g filter="url(#sh)"><rect x="84" y="192" width="250" height="146" rx="8" fill="#fff"/></g>
+    <rect x="84" y="192" width="10" height="146" rx="3" fill="#E31E24"/>
+    <text x="112" y="230" font-family="'Bebas Neue', Impact, 'Arial Narrow', sans-serif" font-size="14.2" fill="#1E2A78">ESTUDIO CONTABLE NORTE</text>
+    <text x="112" y="246" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#5B6483">Atención al cliente</text>
+    <circle cx="117" cy="272" r="5" fill="#2346D8"/><rect x="128" y="269" width="120" height="5" rx="2.5" fill="#DCE4F0"/><circle cx="117" cy="290" r="5" fill="#2346D8"/><rect x="128" y="287" width="96" height="5" rx="2.5" fill="#DCE4F0"/><circle cx="117" cy="308" r="5" fill="#2346D8"/><rect x="128" y="305" width="110" height="5" rx="2.5" fill="#DCE4F0"/>
+    <rect x="276" y="268" width="40" height="40" rx="4" fill="none" stroke="#1E2A78" stroke-width="2"/>
+    <circle fill="#1E2A78" cx="283" cy="275" r="2.4"/><circle fill="#1E2A78" cx="292" cy="275" r="2.4"/><circle fill="#1E2A78" cx="301" cy="275" r="2.4"/><circle fill="#1E2A78" cx="310" cy="275" r="2.4"/><circle fill="#1E2A78" cx="283" cy="284" r="2.4"/><circle fill="#1E2A78" cx="292" cy="284" r="2.4"/><circle fill="#1E2A78" cx="301" cy="284" r="2.4"/><circle fill="#1E2A78" cx="310" cy="284" r="2.4"/><circle fill="#1E2A78" cx="283" cy="293" r="2.4"/><circle fill="#1E2A78" cx="292" cy="293" r="2.4"/><circle fill="#1E2A78" cx="301" cy="293" r="2.4"/><circle fill="#1E2A78" cx="310" cy="293" r="2.4"/><circle fill="#1E2A78" cx="283" cy="302" r="2.4"/><circle fill="#1E2A78" cx="292" cy="302" r="2.4"/><circle fill="#1E2A78" cx="301" cy="302" r="2.4"/><circle fill="#1E2A78" cx="310" cy="302" r="2.4"/></g></g>
+</svg>

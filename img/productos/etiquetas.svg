@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<defs>
+  <linearGradient id="bg8" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F4F8FD"/><stop offset="1" stop-color="#E2ECF8"/></linearGradient>
+  <filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#1E2A78" flood-opacity=".22"/></filter>
+</defs>
+  <rect width="800" height="600" fill="url(#bg8)"/>
+  <circle cx="704" cy="72" r="192" fill="#fff" opacity=".35"/>
+  <circle cx="64" cy="570" r="132" fill="#7FB3E0" opacity=".25"/>
+  <g fill="#1E2A78" opacity=".10"><circle cx="32" cy="36" r="2.4"/><circle cx="46" cy="36" r="2.4"/><circle cx="60" cy="36" r="2.4"/><circle cx="74" cy="36" r="2.4"/><circle cx="88" cy="36" r="2.4"/><circle cx="102" cy="36" r="2.4"/><circle cx="32" cy="50" r="2.4"/><circle cx="46" cy="50" r="2.4"/><circle cx="60" cy="50" r="2.4"/><circle cx="74" cy="50" r="2.4"/><circle cx="88" cy="50" r="2.4"/><circle cx="102" cy="50" r="2.4"/><circle cx="32" cy="64" r="2.4"/><circle cx="46" cy="64" r="2.4"/><circle cx="60" cy="64" r="2.4"/><circle cx="74" cy="64" r="2.4"/><circle cx="88" cy="64" r="2.4"/><circle cx="102" cy="64" r="2.4"/><circle cx="32" cy="78" r="2.4"/><circle cx="46" cy="78" r="2.4"/><circle cx="60" cy="78" r="2.4"/><circle cx="74" cy="78" r="2.4"/><circle cx="88" cy="78" r="2.4"/><circle cx="102" cy="78" r="2.4"/><circle cx="32" cy="92" r="2.4"/><circle cx="46" cy="92" r="2.4"/><circle cx="60" cy="92" r="2.4"/><circle cx="74" cy="92" r="2.4"/><circle cx="88" cy="92" r="2.4"/><circle cx="102" cy="92" r="2.4"/></g>
+<g transform="translate(120 20) scale(1.4)"><path d="M20 70 Q200 40 380 70" fill="none" stroke="#8B6B4A" stroke-width="2"/>
+  <g transform="rotate(-8 103 110)">
+    <path d="M103 70 L103 116" stroke="#8B6B4A" stroke-width="2"/>
+    <g filter="url(#sh)"><path d="M68 110 H138 L158 132 V260 a8 8 0 0 1 -8 8 H56 a8 8 0 0 1 -8 -8 V132 Z" fill="#FFFFFF"/></g>
+    <circle cx="103" cy="126" r="6" fill="#fff" stroke="#C9D3E3"/>
+    <text x="103" y="178" text-anchor="middle" font-family="'Bebas Neue', Impact, 'Arial Narrow', sans-serif" font-size="17" fill="#1E2A78">GRACIAS</text>
+    <text x="103" y="200" text-anchor="middle" font-family="'Bebas Neue', Impact, 'Arial Narrow', sans-serif" font-size="11" fill="#E31E24">POR VENIR</text>
+    <path d="M88 222 q15 10 30 0" fill="none" stroke="#1E2A78" stroke-width="2" opacity=".5"/>
+    <circle cx="103" cy="240" r="4" fill="#7FB3E0"/></g>
+  <g transform="rotate(2 201 100)">
+    <path d="M201 60 L201 106" stroke="#8B6B4A" stroke-width="2"/>
+    <g filter="url(#sh)"><path d="M166 100 H236 L256 122 V250 a8 8 0 0 1 -8 8 H154 a8 8 0 0 1 -8 -8 V122 Z" fill="#EAF2FC"/></g>
+    <circle cx="201" cy="116" r="6" fill="#fff" stroke="#C9D3E3"/>
+    <text x="201" y="168" text-anchor="middle" font-family="'Bebas Neue', Impact, 'Arial Narrow', sans-serif" font-size="17" fill="#1E2A78">MI</text>
+    <text x="201" y="190" text-anchor="middle" font-family="'Bebas Neue', Impact, 'Arial Narrow', sans-serif" font-size="11" fill="#E31E24">BAUTISMO</text>
+    <path d="M186 212 q15 10 30 0" fill="none" stroke="#1E2A78" stroke-width="2" opacity=".5"/>
+    <circle cx="201" cy="230" r="4" fill="#7FB3E0"/></g>
+  <g transform="rotate(9 299 112)">
+    <path d="M299 72 L299 118" stroke="#8B6B4A" stroke-width="2"/>
+    <g filter="url(#sh)"><path d="M264 112 H334 L354 134 V262 a8 8 0 0 1 -8 8 H252 a8 8 0 0 1 -8 -8 V134 Z" fill="#FFF4F4"/></g>
+    <circle cx="299" cy="128" r="6" fill="#fff" stroke="#C9D3E3"/>
+    <text x="299" y="180" text-anchor="middle" font-family="'Bebas Neue', Impact, 'Arial Narrow', sans-serif" font-size="17" fill="#1E2A78">FELIZ</text>
+    <text x="299" y="202" text-anchor="middle" font-family="'Bebas Neue', Impact, 'Arial Narrow', sans-serif" font-size="11" fill="#E31E24">CUMPLE</text>
+    <path d="M284 224 q15 10 30 0" fill="none" stroke="#1E2A78" stroke-width="2" opacity=".5"/>
+    <circle cx="299" cy="242" r="4" fill="#7FB3E0"/></g></g>
+</svg>
