@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+  <!-- SEO / Open Graph: van fijos acá porque WhatsApp, Facebook e Instagram
+       leen estas etiquetas sin ejecutar JavaScript. El resto del contenido sale de data.js -->
+  <title>Imprenta Ragonese | Imprenta y Gráfica en Longchamps — Calendarios 2027, stickers, volantes</title>
+  <meta name="description" content="Imprenta y gráfica en Longchamps (Davel 1260). Calendarios 2027, stickers troquelados, volantes, tarjetas personales, banners, diplomas y cuadernos de comunicaciones. Pedidos por WhatsApp 11-3946-0942.">
+  <meta name="theme-color" content="#1E2A78">
+  <link rel="canonical" href="./">
+
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_AR">
+  <meta property="og:site_name" content="Imprenta Ragonese">
+  <meta property="og:title" content="Imprenta Ragonese · Imprenta y Gráfica en Longchamps">
+  <meta property="og:description" content="Calendarios 2027, stickers, volantes, tarjetas y más. Diseño e impresión en Longchamps. Pedí tu presupuesto por WhatsApp.">
+  <!-- Cuando el sitio tenga dominio, usar la URL absoluta: https://tudominio.com.ar/img/og-image.jpg -->
+  <meta property="og:image" content="img/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Imprenta Ragonese — Imprenta y Gráfica en Longchamps">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="img/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preload" as="image" href="img/hero/calendario.svg">
+</head>
+<body>
+  <a class="skip" href="#main">Saltar al contenido</a>
+
+  <!-- 1. Header -->
+  <header class="header" id="header">
+    <div class="container header__inner">
+      <a class="brand" href="#inicio" data-brand></a>
+      <nav class="nav" id="nav" aria-label="Principal">
+        <ul class="nav__list" data-nav></ul>
+        <div class="nav__extra" data-nav-extra></div>
+      </nav>
+      <a class="btn btn--wa header__cta" data-wa="general" target="_blank" rel="noopener"></a>
+      <button class="burger" id="burger" aria-label="Abrir menú" aria-expanded="false" aria-controls="nav">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- 2. Hero + 3. Abierto/Cerrado -->
+    <section class="hero" id="inicio">
+      <div class="container hero__grid">
+        <div class="hero__text" data-hero-text></div>
+        <div class="hero__collage" data-hero-collage aria-hidden="true"></div>
+      </div>
+    </section>
+
+    <div class="ribbon" aria-hidden="true"><div class="ribbon__track" data-ribbon></div></div>
+
+    <!-- 4. Calendarios 2027 -->
+    <section class="season" id="calendarios">
+      <div class="container" data-season></div>
+    </section>
+
+    <!-- 5. Productos -->
+    <section class="section" id="productos">
+      <div class="container" data-products></div>
+    </section>
+
+    <!-- 6. Cotizador -->
+    <section class="section section--soft" id="cotizador">
+      <div class="container" data-quote></div>
+    </section>
+
+    <!-- 7. Para colegios -->
+    <section class="section schools" id="colegios">
+      <div class="container" data-schools></div>
+    </section>
+
+    <!-- 8. Galería -->
+    <section class="section" id="trabajos">
+      <div class="container" data-gallery></div>
+    </section>
+
+    <!-- 9. Cómo trabajamos -->
+    <section class="section section--soft" id="como-trabajamos">
+      <div class="container" data-steps></div>
+    </section>
+
+    <!-- 10. Contacto -->
+    <section class="section" id="contacto">
+      <div class="container" data-contact></div>
+    </section>
+  </main>
+
+  <!-- 11. Footer -->
+  <footer class="footer" data-footer></footer>
+
+  <!-- Botón flotante de WhatsApp -->
+  <a class="wa-float" data-wa="general" data-wa-float target="_blank" rel="noopener"></a>
+
+  <!-- Lightbox de la galería -->
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Trabajo ampliado" hidden></div>
+
+  <noscript>
+    <p class="noscript">Para ver el sitio completo activá JavaScript. Pedidos por WhatsApp: <a href="https://wa.me/5491139460942">11-3946-0942</a></p>
+  </noscript>
+
+  <script src="data.js"></script>
+  <script src="app.js" defer></script>
+</body>
+</html>
