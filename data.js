@@ -15,7 +15,7 @@ const CONFIG = {
     nombre: "Imprenta Ragonese",
     rubro: "Imprenta · Gráfica",
     dueno: "Sergio Ragonese",
-    logo: "img/logo.svg",
+    logo: "img/logo.png",
     direccion: {
       calle: "Davel 1260",
       localidad: "Longchamps",

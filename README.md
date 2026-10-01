@@ -26,9 +26,9 @@ Todo está en `data.js`: datos del negocio, horarios, productos, medidas de cale
 
 | Archivo | Qué es | Reemplazar por |
 |---|---|---|
-| `img/logo.svg` | Logo placeholder (la "R") | Logo real en SVG o PNG cuadrado con fondo transparente. Si cambia la extensión, actualizar `CONFIG.negocio.logo`. |
-| `img/favicon.svg`, `img/favicon-32.png`, `img/apple-touch-icon.png` (180×180) | Ícono de la pestaña / acceso directo | Versiones del logo real. |
-| `img/og-image.jpg` (1200×630) | Imagen que aparece al compartir el link por WhatsApp / redes | Foto o arte real con el logo. |
+| ~~`img/logo.png`~~ | ✅ Logo real (PNG 320×320, fondo exterior transparente) | — |
+| ~~`img/favicon.svg`, `img/favicon-32.png`, `img/apple-touch-icon.png`~~ | ✅ Generados con la "R" del logo real | — |
+| ~~`img/og-image.jpg`~~ | ✅ Foto del local + logo + "Tus ideas, en grande" (1200×630) | — |
 | `img/calendarios/*.svg` | Los 3 modelos de almanaque | Fotos reales de cada modelo (4:3, ~1200×900). |
 | `img/productos/*.svg` | Las 9 tarjetas de productos | Fotos reales (4:3, ~1200×900). |
 | `img/colegios/colegios.svg` | Imagen del bloque "Para colegios" | Foto de cuadernos / diplomas (cuadrada, ~1000×1000). |
